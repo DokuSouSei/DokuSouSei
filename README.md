@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there、よろしく！
 
+I make games　•　ゲームつくります
+
+日本語の勉強しています。
 <!--
 **DokuSouSei/DokuSouSei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
